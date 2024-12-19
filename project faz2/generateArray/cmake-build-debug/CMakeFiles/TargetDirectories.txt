@@ -1,0 +1,3 @@
+C:/Users/User/CLionProjects/untitled9/generateArray/cmake-build-debug/CMakeFiles/generateArray.dir
+C:/Users/User/CLionProjects/untitled9/generateArray/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/CLionProjects/untitled9/generateArray/cmake-build-debug/CMakeFiles/rebuild_cache.dir
